@@ -1,1 +1,1 @@
-it's a new file which is using for pushing into remote repo. 
+it's a new file which is using for pushing into remote repo. i am adding to check merger conflicts.
